@@ -25,10 +25,12 @@ output: ## Hello World
 urlcolor: blue
 ---
 
-```{r}
-g <- 4
-```
+# Section
 
+**Section K01**
+
+
+# Course Goals
 
 
 
